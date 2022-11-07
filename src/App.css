@@ -1,0 +1,19 @@
+@import "./styles/Info.css";
+
+.App{
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+}
+
+.Home{
+    width: 100%;
+    display:flex;
+}
+
+.Add{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}

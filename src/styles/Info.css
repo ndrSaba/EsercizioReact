@@ -1,0 +1,13 @@
+
+.list {
+    display: flex;
+    flex-direction: column;
+    width: calc(100% - 20px);
+    align-items: center;
+    justify-content: center;
+}
+
+.list ul li{
+    padding: 20px;
+    list-style-type: none;
+}
